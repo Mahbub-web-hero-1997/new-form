@@ -81,4 +81,5 @@ button{
     color: whitesmoke;
     border: 1px solid whitesmoke;
     box-shadow: 3px 1px 10px .01px #8455f1 ;
+    cursor: pointer;
 }
